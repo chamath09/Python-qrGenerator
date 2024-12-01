@@ -23,7 +23,7 @@ This is a Python-based QR Code Generator application built with `tkinter`. The a
 
 ## Installation
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
    ```bash
    git clone https://github.com/chamath09/Python-qrGenerator.git
 Install the required dependencies:
@@ -43,23 +43,3 @@ You can save the QR code as a PNG file by clicking the "Save QR Code" button.
 License
 This project is open-source and available under the MIT License.
 
-go
-Copy code
-
-### Step 2: Add, Commit, and Push the `README.md` File to GitHub
-
-1. After creating and saving the `README.md` file, go to your terminal/command prompt in the project directory.
-
-2. **Stage the `README.md` file**:
-   ```bash
-   git add README.md
-Commit the README.md file:
-
-bash
-Copy code
-git commit -m "Add README file"
-Push the changes to GitHub:
-
-bash
-Copy code
-git push origin main
