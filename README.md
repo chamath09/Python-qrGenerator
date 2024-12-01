@@ -1,9 +1,3 @@
-Step 1: Create the README.md File
-Open your project folder (C:\Users\Chamath\Desktop\QR Generator) on your local machine.
-Create a new file called README.md using a text editor (e.g., Notepad, Visual Studio Code).
-Add some basic content to describe your project. Here's an example:
-markdown
-Copy code
 # QR Code Generator
 
 This is a Python-based QR Code Generator application built with `tkinter`. The app allows users to generate QR codes for any text they input, and save the generated QR code as a PNG image. The user interface is built with `tkinter` and is designed to be simple and user-friendly.
